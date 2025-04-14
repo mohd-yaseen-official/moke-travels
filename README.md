@@ -24,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 - **Frontend**: React (Vite or Create React App, depending on your setup)
-- **Backend**: Django REST API (available in [another repo](https://github.com/mohd-yaseen-official/moke-travels-api.git)
+- **Backend**: Django REST API (available in [another repo](https://github.com/mohd-yaseen-official/moke-travels-api.git))
 - **Routing**: React Router
 - **State Management**: useState/useEffect or context
 - **HTTP Requests**: fetch or Axios
